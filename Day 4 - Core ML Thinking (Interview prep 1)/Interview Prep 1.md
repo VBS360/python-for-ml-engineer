@@ -111,4 +111,4 @@ A technique where data is split multiple times to evaluate model performance mor
 
 ## 🔹 Final Key Insight
 
-> “A good model is not the one that performs best on training data, but the one that generalizes well to unseen data.”
+> “A good model is not the one that performs best on training data, but the one that generalizes well to unseen data”
